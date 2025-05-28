@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ Навыки
+### 🛠️ Основной стек
 - **Языки:** Golang, C#, Bash, SQL  
 - **Фреймворки:** GORM, Gin  
 - **Базы данных:** PostgreSQL
@@ -29,11 +29,3 @@
 #### [FileSystemCLI](https://github.com/AlexVashchenkov/file-system-cli)
 > Консольное приложение для работы с файловой системой  
 > **Tech stack:** C#, .NET 7, EF Core
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexVashchenkov&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVashchenkov&layout=compact)
