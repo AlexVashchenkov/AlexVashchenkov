@@ -3,14 +3,6 @@
 
 ---
 
-### ✉️ Контакты
-- Email: [AlexVashchenkov@yandex.ru](mailto:AlexVashchenkov@yandex.ru)
-- Telegram: [@litmo](https://t.me/litmo)
-- GitHub: [AlexVashchenkov](https://github.com/AlexVashchenkov)
-- [Моё резюме](https://disk.yandex.ru/i/RyAcTTemjE2g5Q)
-
----
-
 ### 🛠️ Основной стек
 - **Языки:** Golang, C#, Bash, SQL  
 - **Фреймворки:** GORM, Gin  
