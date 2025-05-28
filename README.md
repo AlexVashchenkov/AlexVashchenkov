@@ -14,7 +14,7 @@
 > CLI для подсчёта статистик авторов git-репозитория  
 > **Tech stack:** Golang
 
-#### [CookBook](https://m3308-vashchenkov.onrender.com/dishes)
+#### [CookBook](https://food-book.onrender.com/dishes)
 > Веб-приложение для управления библиотекой блюд  
 > **Tech stack:** JS, TS, NestJS, PostgreSQL, S3
 
